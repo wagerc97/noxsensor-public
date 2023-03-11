@@ -14,7 +14,7 @@ It is designed to monitor the function of the exhaust air system and to send an 
 The device also features a magnetic reed sensor to monitor the fan functionality. 
 The occurrence of NOx gas / nitrous gas with typical orange-red color in the exhaust air or a failure of the fan in the exhaust air system is reported as an emergency. 
 
-Detailed information: [EN](/Descriptions/EN_Description.pdf) | [DE](/Descriptions/DE_Funktionsweise.pdf)
+Detailed description: [EN](/Descriptions/EN_Description.pdf) | [DE](/Descriptions/DE_Funktionsweise.pdf)
 
 ## Usage
 The device operates on the plug-and-play principle. As soon as the RPI is supplied with power, 
