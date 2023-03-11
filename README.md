@@ -17,11 +17,14 @@ The occurrence of NOx gas / nitrous gas with typical orange-red color in the exh
 Detailed description: [EN](/Descriptions/EN_Description.pdf) | [DE](/Descriptions/DE_Funktionsweise.pdf)
 
 ## Usage
-The device operates on the plug-and-play principle. As soon as the RPI is supplied with power, 
-the automatic monitoring program starts. For more information, see the Internal Processes chapter.
+The device operates on the plug-and-play principle. The Raspberry Pi needs network access (preferably Wi-Fi).
+The user has sets up the device at the desired location and within range of the Wi-Fi network
+When the Raspberry Pi is supplied with power, the automatic monitoring program starts. 
+
+To set up a fresh Raspberry Pi an installation script is provided in the private repository. 
 
 ## Code
-The code is stored in a private repository. For access requests, please contact me directly. 
+The source code is stored in a private repository. For access requests, please contact me directly. 
 
 ## Features
 - plug-and-play functionality
