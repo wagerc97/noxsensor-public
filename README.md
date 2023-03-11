@@ -4,7 +4,7 @@
 [Code](#Code) |
 [Features](#Features) |
 [Retrospective](#Retrospective) |
-[Pictures](/Pictures) 
+[Pictures](/Pictures/picture_series.pdf) 
 
 
 ## Purpose
@@ -25,12 +25,12 @@ The code is stored in a private repository. For access requests, please contact 
 
 ## Features
 - plug-and-play functionality
-- total acid and corrosion protection in special 3D printed housing 
-- out of the box Wi-Fi connection 
-- logging all actions with logrotate 
-- easy to install through shell script 
+- full logging featuring logrotate
 - auto-calibration to environment
-- E-mail communication in case of emergency or need for maintenance
+- out of the box Wi-Fi connection 
+- easy to install through shell script
+- total acid and corrosion protection in special 3D printed housing
+- sends E-mail alert in case of emergency or need for maintenance
 
 ## Retrospective
 Since this was already my second Raspberry Pi project, I was able to deepen my know-how in working with Raspberry Pi and implement new ideas. 
