@@ -17,11 +17,13 @@ The occurrence of NOx gas / nitrous gas with typical orange-red color in the exh
 Detailed description: [EN](/Descriptions/EN_Description.pdf) | [DE](/Descriptions/DE_Funktionsweise.pdf)
 
 ## Usage
-The device operates on the plug-and-play principle and is designed to run non-stop. The Raspberry Pi needs network access (preferably Wi-Fi).
-The user has sets up the device at the desired location and within range of the Wi-Fi network
+The device operates on the plug-and-play principle and is designed to run non-stop. 
+The Raspberry Pi needs network access (preferably Wi-Fi).
+Then the user sets up the device at the desired location and within range of the network.
 When the Raspberry Pi is supplied with power, the automatic monitoring program starts. 
 
-To set up a fresh Raspberry Pi an installation script is provided in the private repository. 
+To set up a fresh Raspberry Pi a script for complete installation is provided in the private repository. 
+Only client specific customizations (e.g. alert email addresses, calibration intervals, etc.) have to be done.
 
 Maintenance will be necessary depending on the environment. Most likely because the plexiglass window panes in the 3D printed housing will wear down over time.
 
@@ -30,11 +32,12 @@ Maintenance will be necessary depending on the environment. Most likely because 
 The source code is stored in a private repository. For access requests, please contact me directly. 
 
 ## Features
+- designed to run 24/7
 - plug-and-play functionality
-- full logging featuring logrotate
-- auto-calibration to environment
-- out of the box Wi-Fi connection 
 - easy to install through shell script
+- out of the box Wi-Fi connection possible
+- auto-calibration to environmental light conditions
+- full logging with log rotation to manage device storage
 - total acid and corrosion protection in special 3D printed housing
 - sends E-mail alert in case of emergency or need for maintenance
 
