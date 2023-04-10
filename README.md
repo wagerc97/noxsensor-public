@@ -1,4 +1,4 @@
-# Showcase: NOXSENSOR project
+# Showcase: NOXSENSOR project - Optical NOx sensor device 
 [Purpose](#Purpose) |
 [Usage](#Usage) |
 [Code](#Code) |
