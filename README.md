@@ -19,6 +19,8 @@ The occurrence of nitrous gas (NOx) with typical orange-red color in the exhaust
 
 Detailed description: [EN](/Descriptions/EN_Description.pdf) | [DE](/Descriptions/DE_Funktionsweise.pdf)
 
+Source code: [Private repo](https://github.com/wagerc97/noxsensor) 
+
 ## Usage
 The device operates on the plug-and-play principle and is designed to run non-stop. 
 The Raspberry Pi needs network access (preferably Wi-Fi).
