@@ -10,7 +10,7 @@
 ## Purpose
 For the noxsensor project I build a device that can optically detect hazardous gas with a distinct color. 
 With the choice of an optical sensor and an airtight housing the final product can be used i.e. as a durable exhaust air sensor system.
-The sensor module does not require direct contact with its environment in contrast to other gas sensors that would corrode upon contact wth corrosive gases. 
+The sensor module does not require direct contact with its environment in contrast to other gas sensors that would corrode upon contact with corrosive gases. 
 It is designed to monitor the function of the exhaust air system and to send an alarm signal in case of emergency.
 
 The device also features a magnetic reed sensor to monitor the fan functionality in combination with i.e. a magnet that is pushed towards the reed sensor by the airflow.
